@@ -1,0 +1,6 @@
+{
+  "name": "Football Quant Lab",
+  "description": "Plataforma personal de análisis estadístico cuantitativo, estimación probabilística y detección de valor en fútbol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
